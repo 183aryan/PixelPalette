@@ -1,4 +1,4 @@
 # PixelPalette
-App for generating imaginative and visually stunning images through AI
+App designed to generate imaginative and visually stunning images using AI. 
 
-This app is created using OpenAI API. Therefore, it may happen that after some time, it will not able to fetch images from the API. Generally, OPENAI has policy for 3 months free-trial use of their API. Hence, I will upload images and video for the proof of working condition of the app.
+Please note that the app relies on the OpenAI API, which may have limitations in terms of image retrieval after a certain period. OpenAI typically offers a three-month free trial for their API. To provide evidence of the app's functionality, I will upload images and videos demonstrating its current working condition.
